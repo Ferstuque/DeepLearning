@@ -63,3 +63,13 @@ Prerequisites:
  - Evaluating model performance.
  - Leveraging TensorBoard for insightful visualizations.
 
+## YOLOv3 Object Detection
+### PT-BR
+Este notebook demonstra como treinar um detector de objetos YOLOv3 usando o framework Darknet.
+Utilizaremos o conjunto de dados COCO para treinar o modelo em uma variedade de objetos.
+O notebook irá guiá-lo através do processo de configuração do ambiente, configuração do processo de treinamento e avaliação do modelo treinado.
+
+### EN
+This notebook demonstrates how to train a YOLOv3 object detector using the Darknet framework.
+We will use the COCO dataset to train the model on a variety of objects.
+The notebook will guide you through the process of setting up the environment, configuring the training process, and evaluating the trained model.
