@@ -73,3 +73,17 @@ O notebook irá guiá-lo através do processo de configuração do ambiente, con
 This notebook demonstrates how to train a YOLOv3 object detector using the Darknet framework.
 We will use the COCO dataset to train the model on a variety of objects.
 The notebook will guide you through the process of setting up the environment, configuring the training process, and evaluating the trained model.
+
+## Face Detection Using OpenCV and ResNet
+### PT-BR
+Este notebook demonstra um sistema de detecção e classificação facial utilizando técnicas de Visão Computacional. Ele utiliza manipulação de imagens e um modelo ResNet pré-treinado para analisar imagens capturadas por uma webcam. O objetivo é melhorar a precisão e confiabilidade da detecção facial por meio de:
+- Detecção de faces: Identificar e localizar faces dentro do fluxo de vídeo da webcam.
+- Classificação de faces: Determinar a identidade ou categoria das faces detectadas.
+- Pontuação de Confiança: Atribuir uma pontuação de confiança a cada detecção, filtrando previsões com baixa confiança e garantindo que apenas detecções confiáveis sejam consideradas.
+
+### EN
+This notebook demonstrates a face detection and classification system using Computer Vision techniques. It leverages image manipulation and a pre-trained ResNet model to analyze images captured from a webcam. The goal is to enhance face detection accuracy and reliability by:
+
+- Detecting faces: Identifying and locating faces within the webcam feed.
+- Classifying faces: Determining the identity or category of detected faces.
+- Confidence Scoring: Assigning a confidence score to each detection, filtering out low-confidence predictions and ensuring only reliable detections are considered.
