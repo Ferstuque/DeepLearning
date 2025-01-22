@@ -87,3 +87,10 @@ This notebook demonstrates a face detection and classification system using Comp
 - Detecting faces: Identifying and locating faces within the webcam feed.
 - Classifying faces: Determining the identity or category of detected faces.
 - Confidence Scoring: Assigning a confidence score to each detection, filtering out low-confidence predictions and ensuring only reliable detections are considered.
+
+## Image Similarity Recommendations Notebook
+### PT-BR
+Este notebook apresenta um sistema de recomendação visual que, a partir de uma imagem de entrada, sugere produtos com características visuais similares. O sistema utiliza uma rede neural profunda treinada para identificar e classificar objetos em diversas categorias, como roupas, acessórios e eletrônicos. A recomendação é baseada na similaridade visual entre a imagem de entrada e os produtos em nosso banco de dados, desconsiderando informações textuais como preço e marca.
+
+### EN
+This notebook demonstrates a visual recommendation system. Given an input image, it suggests similar products based on visual attributes. A deep neural network, trained on various object categories, powers the system. Recommendations are derived from visual comparisons, ignoring textual data like price and brand.
